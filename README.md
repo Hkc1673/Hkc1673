@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm Habib KOÇ
+
+Fullstack Developer
+
+This repository helps you to easily review the projects in my profile. 
+Click here https://hkc1673.github.io/Index-Of-GitHub-Profile/
+
+- 🔭 I’m currently studying on Clarusway
+- 🌱 I’m currently learning Javascript
 
 <!--
 **Hkc1673/Hkc1673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
