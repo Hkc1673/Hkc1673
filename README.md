@@ -11,7 +11,7 @@ Click here https://hkc1673.github.io/Index-Of-GitHub-Profile/
 
 twitter: https://twitter.com/HabibKo71
 
-linkedin :https://www.linkedin.com/in/habib-ko%C3%A7-4763281b7/
+linkedin :www.linkedin.com/in/habib-koç-4763281b7
 
 medium :https://medium.com/@habibkc71
 
