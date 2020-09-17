@@ -1,13 +1,13 @@
 ### Hi there 👋
-I'm Habib KOÇ
+<h1>I'm Habib KOÇ</h1>
 
-Fullstack Developer
+ <h2>Fullstack Developer</h2>
 
 This repository helps you to easily review the projects in my profile. 
 Click here https://hkc1673.github.io/Index-Of-GitHub-Profile/
 
 - 🔭 I’m currently studying on Clarusway
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning <strong>Javascript</strong>
 
 twitter: https://twitter.com/HabibKo71
 
