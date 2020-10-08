@@ -9,6 +9,11 @@ Click here https://hkc1673.github.io/Index-Of-GitHub-Profile/
 - 🔭 I’m currently studying on Clarusway
 - 🌱 I’m currently learning <strong>Javascript and React Native</strong>
 
+ <h3>HTML5</h3>
+ <h3>Fullstack Developer</h3>
+ <h3>Fullstack Developer</h3>
+
+
 twitter: https://twitter.com/HabibKo71
 
 linkedin :www.linkedin.com/in/habib-koç-4763281b7
