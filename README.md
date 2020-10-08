@@ -7,7 +7,7 @@ This repository helps you to easily review the projects in my profile.
 Click here https://hkc1673.github.io/Index-Of-GitHub-Profile/
 
 - 🔭 I’m currently studying on Clarusway
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning;
  <h3>JavaScript and React Native</h3>
  <h3>HTML5</h3>
  <h3>CSS</h3>
