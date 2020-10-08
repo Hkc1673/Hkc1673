@@ -10,7 +10,7 @@ Click here https://hkc1673.github.io/Index-Of-GitHub-Profile/
 - 🌱 I’m currently learning <strong>Javascript and React Native</strong>
 
  <h3>HTML5</h3>
- <h3>Fullstack Developer</h3>
+ <h3>CSS</h3>
  <h3>Fullstack Developer</h3>
 
 
