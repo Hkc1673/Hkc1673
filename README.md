@@ -8,7 +8,7 @@ Click here https://hkc1673.github.io/Index-Of-GitHub-Profile/
 
 - 🔭 I’m currently studying on Clarusway
 - 🌱 I’m currently learning 
- <h3><strong>Javascript and React Native</strong></h3>
+ <h3>JavaScript and React Native</h3>
  <h3>HTML5</h3>
  <h3>CSS</h3>
  <h3>Python</h3>
