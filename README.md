@@ -19,7 +19,7 @@ twitter: https://twitter.com/HabibKo71
 
 linkedin :www.linkedin.com/in/habib-koç-4763281b7
 
-medium :https://medium.com/@habibkc71
+medium :https://habibkc71.medium.com/
 
 <!--
 **Hkc1673/Hkc1673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
