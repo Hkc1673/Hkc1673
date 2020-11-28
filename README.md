@@ -21,6 +21,8 @@ linkedin :www.linkedin.com/in/habib-koç-4763281b7
 
 medium :https://habibkc71.medium.com/
 
+e-mail : habibkc71@gmail.com
+
 <!--
 **Hkc1673/Hkc1673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
