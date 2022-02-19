@@ -25,6 +25,10 @@ This repository helps you to easily review the projects in my profile.
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
+## Npm Package
+  I developed a npm package.This package is a small helper for generator forms with Formik, Yup validation and styled-component easily. It can generate login forms, survey forms and other forms on JSON schema model definition.
+- [react-formik-form-generator](https://www.npmjs.com/package/react-formik-form-generator)
+
 ## Medium Articles
 
 - [JavaScript Destructuring assignment — write less, do more](https://habibkc71.medium.com/javascript-destructuring-assignment-write-less-do-more-7046ee528470)
