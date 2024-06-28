@@ -30,7 +30,7 @@ This repository helps you to easily review the projects in my profile.
 - [react-formik-form-generator](https://www.npmjs.com/package/react-formik-form-generator)
 
   This package is a React component that provides input masking functionality. It allows you to enforce a specific input format, such as phone numbers, card number, or any custom pattern, directly within an input field.
-  - [react-text-input-mask](https://www.npmjs.com/package/react-text-input-mask)
+- [react-text-input-mask](https://www.npmjs.com/package/react-text-input-mask)
 
 ## Medium Articles
 
