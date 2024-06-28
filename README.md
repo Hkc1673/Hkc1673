@@ -26,11 +26,10 @@ This repository helps you to easily review the projects in my profile.
 - 💬 Ask me about anything that you want to learn
 
 ## Npm Package
-  I developed a npm package.This package is a small helper for generator forms with Formik, Yup validation and styled-component easily. It can generate login forms, survey forms and other forms on JSON schema model definition.
-- [react-formik-form-generator](https://www.npmjs.com/package/react-formik-form-generator)
+  - [react-formik-form-generator](https://www.npmjs.com/package/react-formik-form-generator). This package is a small helper for generator forms with Formik, Yup validation and styled-component easily. It can generate login forms, survey forms and other forms on JSON schema model definition.
 
-  This package is a React component that provides input masking functionality. It allows you to enforce a specific input format, such as phone numbers, card number, or any custom pattern, directly within an input field.
-- [react-text-input-mask](https://www.npmjs.com/package/react-text-input-mask)
+
+- [react-text-input-mask](https://www.npmjs.com/package/react-text-input-mask). This package is a React component that provides input masking functionality. It allows you to enforce a specific input format, such as phone numbers, card number, or any custom pattern, directly within an input field.
 
 ## Medium Articles
 
