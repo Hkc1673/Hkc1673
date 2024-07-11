@@ -33,10 +33,10 @@ This repository helps you to easily review the projects in my profile.
 
 ## Medium Articles
 
+- [Introducing react-text-input-mask: Simplifying Input Masking in React](https://habibkc71.medium.com/introducing-react-text-input-mask-simplifying-input-masking-in-react-73091f55dc8c)
 - [JavaScript Destructuring assignment — write less, do more](https://habibkc71.medium.com/javascript-destructuring-assignment-write-less-do-more-7046ee528470)
 - [JavaScript Arrow Function Kullanımı](https://habibkc71.medium.com/javascript-arrow-function-kullan%C4%B1m%C4%B1-473856364486)
 - [Javascript let, const Kullanımı](https://habibkc71.medium.com/javascript-let-const-kullan%C4%B1m%C4%B1-25bd1253d679)
-
 
 <!--
 **Hkc1673/Hkc1673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
