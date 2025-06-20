@@ -20,7 +20,7 @@ This repository helps you to easily review the projects in my profile.
 - 📫 How to reach me with email: habibkc71@gmail.com
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
+- 🌱 I’m also working on backend development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
