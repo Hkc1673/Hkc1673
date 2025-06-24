@@ -3,9 +3,6 @@
 
  <h2>Fullstack Developer</h2>
 
-This repository helps you to easily review the projects in my profile. 
-[Click Here](https://hkc1673.github.io/Index-Of-GitHub-Profile/)
-
 <img src="https://github-readme-stats.vercel.app/api?username=Hkc1673&show_icons=true&theme=dracula" align='center' width="55%">
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
