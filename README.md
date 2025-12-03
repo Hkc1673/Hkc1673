@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/npm/dm/react-formik-form-generator?style=for-the-badge" />
 </p>
 
-- 👉 **Package:** https://www.npmjs.com/package/react-formik-form-generator  
+👉 **Package:** https://www.npmjs.com/package/react-formik-form-generator  
 - A helper library for generating forms with **Formik + Yup + Styled Components** using JSON schema.
 
 ---
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/npm/dm/react-text-input-mask?style=for-the-badge" />
 </p>
 
-- 👉 **Package:** https://www.npmjs.com/package/react-text-input-mask  
+👉 **Package:** https://www.npmjs.com/package/react-text-input-mask  
 - A React component for **custom input masking** (phone, card, or any custom pattern).
 
 ---
